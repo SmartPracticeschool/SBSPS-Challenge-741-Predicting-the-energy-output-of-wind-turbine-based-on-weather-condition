@@ -9,4 +9,4 @@ Hereby, we formulate the prediction task as regression problem and test differen
 In our experiments, we analyze predictions for individual turbines and show that a machine learning approach yields feasible results for short-term wind power prediction.
 As it is a predictive type problem We use various regression methods to solve it .
 We also use node red to make this solution user-friendly.
-We create app.py file to connect the model using streamlit for front end view and to support that file we create model.pkl and test.py file .
+We create app.py file to connect the model using streamlit for front end view and to support that file we create model.pkl and windenergyprediction.py file .
